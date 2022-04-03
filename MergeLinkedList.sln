@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MergeLinkedList", "MergeLinkedList\MergeLinkedList.csproj", "{99BE92F5-0637-4BA2-879B-83FF7F8033F0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99BE92F5-0637-4BA2-879B-83FF7F8033F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99BE92F5-0637-4BA2-879B-83FF7F8033F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99BE92F5-0637-4BA2-879B-83FF7F8033F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99BE92F5-0637-4BA2-879B-83FF7F8033F0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B07DD323-A0FC-4310-8D00-C582B15505A9}
+	EndGlobalSection
+EndGlobal
